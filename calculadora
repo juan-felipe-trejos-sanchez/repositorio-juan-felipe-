@@ -1,0 +1,7 @@
+programa   que realiza la suma de un numero
+escrinir "digite el primer codigo"
+leer num1
+escribir "digite el segundo codio"
+leer num2
+resultado = num1 + num2
+mostrar "reultado de num1 + num2"
